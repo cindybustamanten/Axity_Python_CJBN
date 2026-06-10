@@ -1,6 +1,0 @@
-[
-  {"id": 1, "nombre": "Ana", "edad": 30, "pais": "MX", "activo": true},
-  {"id": 2, "nombre": "Luis", "edad": 22, "pais": "ES", "activo": false},
-  {"id": 3, "nombre": "Maria", "edad": 35, "pais": "MX", "activo": true},
-  {"id": 4, "nombre": "John", "edad": 28, "pais": "US", "activo": true}
-]
