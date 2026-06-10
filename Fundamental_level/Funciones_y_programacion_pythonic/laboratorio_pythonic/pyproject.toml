@@ -1,0 +1,18 @@
+[project]
+name = "laboratorio-pythonic"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "vn0nv6j"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "laboratorio_pythonic", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
